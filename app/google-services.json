@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052146726952",
+    "project_id": "gsonapi-3999e",
+    "storage_bucket": "gsonapi-3999e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052146726952:android:d26c65f3aa43a0e9db9d1d",
+        "android_client_info": {
+          "package_name": "com.example.gsonapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052146726952-7587rdpah6t2qafmjet6r4faqp6417fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4V_VsliMKg_GqlbdvOO9l0TL4_eTVWy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052146726952-7587rdpah6t2qafmjet6r4faqp6417fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
